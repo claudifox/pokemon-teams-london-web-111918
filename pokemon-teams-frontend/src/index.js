@@ -17,7 +17,6 @@ function initalize() {
 const state = {
   trainers: [],
   pokemons:[],
-  currentPokemon: null
 }
 
 const addTrainersToPage = trainers => {
